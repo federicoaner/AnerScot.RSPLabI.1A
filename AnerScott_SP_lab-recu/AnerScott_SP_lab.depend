@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1593549697 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott_sp_lab\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"validacion.h"
+
+1593293136 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott_sp_lab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593007246 c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott_sp_lab\linkedlist.h
+
+1589338466 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott_sp_lab\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+
+1593296728 c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott_sp_lab\validacion.h
+
+1593548661 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott_sp_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicletas.h"
+
+1593548535 c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott_sp_lab\bicicletas.h
+
+1596026833 source:c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-alta incluida no funciona bien id\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596026833 c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-alta incluida no funciona bien id\linkedlist.h
+
+1596031079 source:c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-alta incluida no funciona bien id\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	<time.h>
+
+1596029865 c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-alta incluida no funciona bien id\bicicletas.h
+
+1589338466 source:c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-alta incluida no funciona bien id\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+
+1593296728 c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-alta incluida no funciona bien id\validacion.h
+
+1596030856 source:c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-alta incluida no funciona bien id\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"validacion.h"
+
+1596031783 source:c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-recu\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"validacion.h"
+
+1596026833 c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-recu\linkedlist.h
+
+1596031562 c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-recu\bicicletas.h
+
+1593296728 c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-recu\validacion.h
+
+1596026833 source:c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-recu\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1589338466 source:c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-recu\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+
+1596031816 source:c:\users\fede\desktop\recu ii pacial laboratoroi\anerscott_sp_lab-recu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	<time.h>
+
